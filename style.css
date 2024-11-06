@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+    justify-content: center;
+    margin: 1px auto;
+    font-size: smaller;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+table {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 36px auto;
+    border-collapse: collapse;
+    box-shadow: 0px 0px 3px -1px #000000dd;
+    border-color: #000000dd;
+}
+td {
+    border-bottom: 1px solid #9c9c9cdd;
+    border-right: 1px solid #9c9c9cdd;
+    border-left: 1px solid #9c9c9cdd;
+    padding: 10px 10px;
+    font-size: 12px;
+}
+tbody {
+    text-align: center;
+    justify-content: center;
+}
+.sem-level{
+    padding: 10px 5px;
+    font-weight: bold;
+    width:max-content;
+    align-items: center;
+    color: rgb(255, 255, 255);
+    background-color: #539fea;
+}
+.sem-header {
+    padding: 11px 35px;
+    font-weight: bold;
+    background-color: #e2e2e2;
+}
+tr{
+    background-color: #87CFEA;
+}
+.in-progress{
+    background-color: yellow;
+}
+.not-taken{
+    background-color: white;
+}
